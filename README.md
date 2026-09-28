@@ -832,8 +832,3 @@ Thumbs.db
 | 보너스 | JSON 영속화 · Markdown 내보내기 | ✅ | `prompts.json` · `exported_prompts.md` |
 | 보너스 | 수정/삭제 · 조회수 · 조회수 정렬 | ✅ | `manage_prompt()` · `views` · `show_top_views()` |
 
----
-
-## 📄 라이선스
-
-개인 학습 목적으로 제작한 프로젝트입니다. 자유롭게 참고 · 수정하여 사용할 수 있습니다.
